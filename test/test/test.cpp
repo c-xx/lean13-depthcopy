@@ -10,7 +10,8 @@ int main(void) {
 
 	Array arr1;
 	arr1.setCount(5);
-	Array arr2 = arr1;
+	Array arr2 = arr1;//Ç³¿½±´¹¹Ôìº¯Êı
+	cout << "arr2.getCount()\t" << arr2.getCount() << endl;
 
 	system("pause");
 	return 0;
