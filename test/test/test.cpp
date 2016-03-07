@@ -16,6 +16,9 @@ int main(void) {
 	arr1.printAddr();
 	arr2.printAddr();
 
+	arr1.pringArr();
+	arr2.pringArr();
+
 	system("pause");
 	return 0;
 }
